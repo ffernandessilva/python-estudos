@@ -7,7 +7,7 @@
 # São considerados falsy 
 # 0 0 0 '' False
 # Também existe o tipo None, 
-# usado para representar um não valor
+# usado para representar um não valor 
 
 entrada = input('[E]ntrar [S]air: ')
 senha_permitida = '123456'
